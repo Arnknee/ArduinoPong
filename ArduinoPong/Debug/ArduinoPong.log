@@ -1,0 +1,6 @@
+﻿  ball.cpp
+c:\users\arnie\desktop\code\c++\visualstudio\arduinopong\arduinopong\ball.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\arnie\desktop\code\c++\visualstudio\arduinopong\arduinopong\ball.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\arnie\desktop\code\c++\visualstudio\arduinopong\arduinopong\ball.cpp(147): warning C4715: 'Ball::score': not all control paths return a value
+  ArduinoPong.vcxproj -> C:\Users\Arnie\Desktop\Code\C++\VisualStudio\ArduinoPong\Debug\ArduinoPong.exe
+  ArduinoPong.vcxproj -> C:\Users\Arnie\Desktop\Code\C++\VisualStudio\ArduinoPong\Debug\ArduinoPong.pdb (Partial PDB)
